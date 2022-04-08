@@ -1,4 +1,4 @@
-My First Website.
+My first website.
 
 File creation date:
 January 1, 2021
